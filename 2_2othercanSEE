@@ -16,7 +16,7 @@
         <li>не відображає анімацію на відміну від GIF.</li>
      </ul>
 <p>Область застосування: текст, логотипи, ілюстрації з чіткими межами.</p>
-<img src="pinguin.png" alt="PNG_8">
+<img src="https://ironumbrellal.github.io/Labs-for-webDesighn/pinguin.png" alt="PNG_8">
 <br>
 <a href="#up">Вгору</a>
 <h3>Формат PNG-24</h3>
@@ -28,7 +28,7 @@
     <li>найбільший об’єм файлу у порівнянні з іншими форматами.</li>
 </ul>
  <p>Область застосування: фотографії, малюнки, що містять прозорі і напівпрозорі ділянки, малюнки з великою кількістю кольорів і чіткими межами зображення.</p>
- <img src="blueThing.png" alt="PNG_24">
+ <img src="https://ironumbrellal.github.io/Labs-for-webDesighn/blueThing.png" alt="PNG_24">
  <br>
 <a href="#up">Вгору</a>
  <h3>Формат JPEG</h3>
@@ -40,7 +40,7 @@
  </ul>
  <p>Область застосування: використовується переважно для фотографій, не дуже підходить для малюнків, що містять прозорі ділянки, дрібні деталі або текст.</p>
 
- <img src="bridge.jpg" alt="JPEG">
+ <img src="ironumbrellal.github.io/Labs-for-webDesighn/bridge.jpg" alt="JPEG">
  <br>
 <a href="#up">Вгору</a>
  <h3>Формат GIF</h3>
@@ -52,7 +52,7 @@
  </ul>
  <p>Область застосування: текст, логотипи, ілюстрації з чіткими межами, анімовані малюнки, зображення з прозорими ділянками, банери.</p>
 
- <img src="move_img_lab.gif" alt="GIF">
+ <img src="https://ironumbrellal.github.io/Labs-for-webDesighn/move_img_lab.gif" alt="GIF">
  <br>
 <a href="#up">Вгору</a>
  <h3>Формат SVG</h3>
@@ -63,6 +63,6 @@
     <li>підтримує анімацію та інтерактивність.</li>
  </ul>
  <p>Область застосування: текст, логотипи, ілюстрації з чіткими межами.</p>
- <img src="fdf.svg" alt="SVG" height="100">
+ <img src="https://ironumbrellal.github.io/Labs-for-webDesighn/fdf.svg" alt="SVG" height="100">
     </body>
 </html>
